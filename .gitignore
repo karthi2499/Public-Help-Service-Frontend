@@ -1,0 +1,10 @@
+.dart_tool
+.idea
+android/key.properties
+android/app/google-services.json
+android/app/my-debug-key.keystore
+android/app/my-release-key.keystore
+android/app/upload-keystore.jks
+build
+FlutterGuideLogo
+LandingPage
